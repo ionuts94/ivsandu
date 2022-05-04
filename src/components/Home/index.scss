@@ -22,7 +22,7 @@
       font-size: 18px;
       position: absolute;
       margin-top: -40px;
-      left: 15px;
+      left: -15px;
       opacity: .9;
     }
 
@@ -33,7 +33,7 @@
       font-size: 18px;
       position: absolute;
       margin-top: -18px;
-      left: 15px;
+      left: -15px;
       opacity: .9;
       bottom: -5rem;
       animation: fadeIn 1s 1.7s backwards;
@@ -41,7 +41,6 @@
 
     img {
       width: 32px;
-      margin-left: 20px;
       opacity: 0;
       height: auto;
       animation: rotateIn 1s linear both;
